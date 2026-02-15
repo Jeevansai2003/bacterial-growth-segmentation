@@ -18,4 +18,4 @@ This project performs:
 
 ```bash
 pip install -r requirements.txt
-python main.py
+python image.py
